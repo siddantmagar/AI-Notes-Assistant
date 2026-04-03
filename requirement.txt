@@ -1,0 +1,17 @@
+streamlit
+pymupdf
+easyocr
+opencv-python
+numpy
+sentence-transformers
+chromadb
+ollama
+
+How to Run the Project:
+1.python -m venv venv
+2.venv\Scripts\activate
+3.pip install -r requirement.txt
+4.Install Ollama
+5.ollama pull phi3
+6.ollama serve (Keep this terminal open)
+7.streamlit run app.py
