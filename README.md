@@ -115,4 +115,4 @@ Download from: https://ollama.com/download
 
 ## 👨‍💻 Author
 
-Siddhant Magar
+Siddant Magar
